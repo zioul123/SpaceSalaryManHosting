@@ -1,5 +1,5 @@
 # Space Salaryman
-This is a game that me and three others made during NUS Gamecraft 2018. The theme of this game jam was "clockwork", and hence the concept of a game where you play the role of a salary man, doing menial tasks over and over again, like clockwork. Play the latest version of the game [here](https://zioul123.github.io/RepulsorPong/Hosting/v0.9/), and view the source code of the game (very messy, as it's a 24h game jam, admittedly there's a lot of bad coding practices in there) [here](https://github.com/SusterDrifter/gamejam-2018/).
+This is a game that me and three others made during NUS Gamecraft 2018. The theme of this game jam was "clockwork", and hence the concept of a game where you play the role of a salary man, doing menial tasks over and over again, like clockwork. Play the latest version of the game [here](https://zioul123.github.io/SpaceSalaryManHosting/Submission/), and view the source code of the game (very messy, as it's a 24h game jam, admittedly there's a lot of bad coding practices in there) [here](https://github.com/SusterDrifter/gamejam-2018/).
 
 This was the planning page for our project:
 
